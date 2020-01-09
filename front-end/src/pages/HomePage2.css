@@ -1,0 +1,32 @@
+.ant-btn-primary {
+    background-color: #9890ff !important;
+    border-color: #fff0ff !important;
+  }
+
+.ant-btn-primary:hover{
+    background-color: #fff0ff !important;
+    border-color: #9890ff !important;
+    color: #9890ff !important;
+}
+.ant-btn-danger {
+    background-color: #f5222d !important;
+    border-color: #d9d9d9 !important;
+    color:#f5f5f5!important;
+  }
+
+.ant-btn-danger:hover{
+    color: #f5222d !important;
+    background-color: #f7d9d9 !important;
+    border-color: #f5222d !important;
+}
+.ant-btn-dashed {
+    color: #faad14 !important;
+    background-color: #fff !important;
+    border-color: #faad14 !important;
+}
+.ant-btn-dashed:hover{
+    color: #fff !important;
+    background-color: #faad14 !important;
+    border-color: #faad14 !important;
+}
+
