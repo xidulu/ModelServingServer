@@ -14,7 +14,7 @@ from train import infer
 from config import checkpoint_dir, device
 
 dynamodb = boto3.resource('dynamodb')
-table = dynamodb.Table("xwwngz-db")
+table = dynamodb.Table("your db name")
 app = Flask(__name__)
 model = None
 tokenizer = None
